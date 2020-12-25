@@ -1,0 +1,8 @@
+platform :ios, '10.0'
+use_frameworks!
+source 'https://yfgitlab.dahuatech.com/phone_ios/dahuaSpecs'
+source 'https://yfgitlab.dahuatech.com/phone_ios/githubSpecs'
+
+target "vecd" do
+
+end
